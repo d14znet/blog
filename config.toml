@@ -1,0 +1,18 @@
+baseURL = 'https://d14znet.github.io/blog/'
+languageCode = 'en-us'
+title = 'Hello World'
+theme = 'm10c'
+
+[params]
+  author = 'Malili'
+  description = 'This is a test blog.'
+
+  [[params.social]]
+    icon = 'github'
+    name = 'GitHub'
+    url = 'https://github.com/d14znet'
+
+  [[params.social]]
+    icon = 'twitter'
+    name = 'Twitter'
+    url = 'https://twitter.com/_emekadir_'
