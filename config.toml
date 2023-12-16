@@ -1,6 +1,6 @@
-baseURL = 'https://d14znet.github.io/blog/'
-languageCode = 'en-us'
-title = 'Hello World'
+baseURL = "https://d14znet.github.io/blog/"
+languageCode = "en-us"
+title = "Hello World"
 theme = "m10c"
 
 [params]
