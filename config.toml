@@ -6,6 +6,7 @@ theme = "m10c"
 [params]
   author = "Malili"
   description = "This is a test blog."
+  avatar = "https://github.com/d14znet/blog/raw/main/static/bmo.png"
 
   [[params.social]]
     icon = "github"
