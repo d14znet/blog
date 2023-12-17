@@ -1,7 +1,7 @@
 ---
 title: "Second Post"
 date: 2023-12-17T01:19:48+01:00
-draft: true
+draft: false
 ---
 
 This is the title!
